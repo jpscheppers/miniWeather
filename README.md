@@ -1,25 +1,36 @@
-# Your Favicon Package
+# miniWeather
 
-This package was generated with [RealFaviconGenerator](https://realfavicongenerator.net/) [v0.16](https://realfavicongenerator.net/change_log#v0.16)
+## Project made by [Jean-Philippe Scheppers](https://www.linkedin.com/in/jean-philippe-scheppers/) and [Audrey Kremers](https://www.linkedin.com/in/audrey-kremers-433776178) as part of a web dev training @ [BeCode Brussel](https://www.becode.org/)   
+## Friday, 5 april 2019
 
-## Install instructions
+### Wath's the goal of this project ?    
 
-To install this package:
+- Use the framework [VueJS](https://vuejs.org/) to code a weather app with a call to an [API](https://openweathermap.org/), from scratch !   
+- Design of the app layout (look & feel) with [Figma](https://www.figma.com/file/aSelmLcluY4ggFNiS0xX1nx6/miniWeather?node-id=0%3A1)    
 
-Extract this package in the root of your web site. If your site is <code>http://www.example.com</code>, you should be able to access a file named <code>http://www.example.com/favicon.ico</code>.
+### How long did it take ?   
 
-Insert the following code in the `head` section of your pages:
+4 days btw 9 A.M to 17 P.M   
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#8981cc">
-    <meta name="apple-mobile-web-app-title" content="miniWeather">
-    <meta name="application-name" content="miniWeather">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="msapplication-TileImage" content="/mstile-144x144.png">
-    <meta name="theme-color" content="#ffffff">
+### Respective contributions :    
 
-*Optional* - Check your favicon with the [favicon checker](https://realfavicongenerator.net/favicon_checker)
+- J-P Scheppers : Web developer => API; VueJS code and final HTML, [Bootsrap](https://getbootstrap.com/) & CSS integration.
+- Audrey Kremers : Web designer => Layout Figma; HTML, Bootsrap & CSS draft; Read me writing.
+
+### Links   
+
+- [Layout Figma](https://www.figma.com/file/aSelmLcluY4ggFNiS0xX1nx6/miniWeather?node-id=0%3A1)     
+- [miniWeather App](https://jpscheppers.github.io/miniWeather/)    
+
+### Layouts :     
+       
+![Layout Day version](https://github.com/jpscheppers/miniWeather/blob/master/img/miniWeatherDayLayout.PNG)    
+![Layout Night version](https://github.com/jpscheppers/miniWeather/blob/master/img/miniWeatherNigthLayout.PNG)    
+
+### Credits :   
+
+Thanks to :    
+- [Prem Gurusamy](https://www.premgurusamy.com/) for his 2 designs on Dribbble.    
+- Icons made by https://www.flaticon.com/authors/those-icons from https://www.flaticon.com/ is licensed by http://creativecommons.org/licenses/by/3.0/".    
+
+### Thank you for your interest !     
