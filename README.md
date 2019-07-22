@@ -8,9 +8,9 @@
 - Use the framework [VueJS](https://vuejs.org/) to code a weather app with a call to an [API](https://openweathermap.org/), from scratch !   
 - Design of the app layout (look & feel) with [Figma](https://www.figma.com/file/aSelmLcluY4ggFNiS0xX1nx6/miniWeather?node-id=0%3A1)    
 
-### How long did it take ?   
+### Development duration   
 
-4 days btw 9 A.M to 17 P.M   
+4 days  
 
 ### Respective contributions :    
 
